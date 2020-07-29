@@ -21,12 +21,7 @@ public class DemoArrayList {
 }
 
 //An array is basic functionality provided by Java.
-
 //ArrayList is part of collection framework in Java. ...
-
 //https://www.javatpoint.com/collections-in-java
-
 //https://www.javatpoint.com/java-arraylist
-
-
-//make chage
+//make changes...
