@@ -3,7 +3,7 @@ package demo;
 import java.util.ArrayList;
 import java.util.List;
 
-import demo1.Calculate;
+import DemoCollections.DemoArray;
 
 
 //class A  - variables and methods
@@ -33,7 +33,7 @@ class Dog1 extends Animal1 {
 class Upcasting {
 	public static void main(String args[]){ 
 
-		Calculate c;
+		DemoArray c;
 		
 		Animal1 a = new Animal1();
 		System.out.println(a.bark); 
